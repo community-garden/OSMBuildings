@@ -1,5 +1,5 @@
 {
-  "name": "OSMBuildings",
+  "name": "@community-garden/OSMBuildings",
   "private": false,
   "description": "OSM Buildings",
   "version": "4.1.1",
@@ -10,11 +10,12 @@
   "maintainers": [
     "Jan Marsch (@kekscom)",
     "Robert Buchholz (@rbuch703)",
-    "Sebastian Settgast (@setti84)"
+    "Sebastian Settgast (@setti84)",
+    "bastiion (@bastiion)"
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:OSMBuildings/OSMBuildings.git"
+    "url": "git@github.com:community-garden/OSMBuildings.git"
   },
   "scripts": {
     "docs": "documentation build src/index.js -f json -o docs/docs.json --sort-order 'alpha'",
